@@ -1,5 +1,6 @@
 ## Live site
 You can view the live deployed portfolio here:
+[https://u02.netlify.app/]
 
 ## Name
 
